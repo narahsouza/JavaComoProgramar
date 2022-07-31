@@ -1,3 +1,5 @@
+// Exercício 2.8: Ex02_08.java
+
 import java.util.Scanner;
 
 public class Ex02_08 {

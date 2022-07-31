@@ -1,3 +1,4 @@
+// Exercício 2.6: Ex02_06.java
 // Este programa calculará o produto de três inteiros.
 
 import java.util.Scanner;
