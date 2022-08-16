@@ -14,7 +14,7 @@ public class Ex02_28 {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Digite o raio de um círculo como um inteiro: ");
+        System.out.print("Digite o raio de um circulo como um inteiro: ");
         raio = input.nextInt();
 
         diametro = 2 * raio;
