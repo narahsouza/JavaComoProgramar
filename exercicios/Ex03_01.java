@@ -1,4 +1,4 @@
-// Fig. 2.7: Addition.java
+// Exercício 3.01: Ex03_01.java
 // Addition program that displays the sum of two numbers.
 import java.util.Scanner; // program uses class Scanner
 
